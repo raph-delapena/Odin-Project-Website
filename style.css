@@ -9,8 +9,8 @@
     background-color: white
 }
 .four {
-    background-color: #e5e7ebd8
-
+    background-color: #e5e7ebd8;
+    border: black
 
 
 }
@@ -20,7 +20,7 @@
 
 }
 
-.headerLinkOne.headerLinkTwo.headerLinkThree {
+.one .headerlink {
     color: #e5e7eb;
     size: 18px;
 
