@@ -1,5 +1,8 @@
 .one.two {
     background-color: #1f2937;
+    border: #1f2937;
+    height: 40px;
+    
 }
 
 .three.five {
@@ -9,7 +12,7 @@
     background-color: #e5e7ebd8
 
 
-    
+
 }
 .header {
     color: #F9FAF8;
